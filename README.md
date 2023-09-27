@@ -5,3 +5,6 @@ I decided to create a GitHub repository because of two reasons:
 2. I thought this would be a good oportunity to start getting familiar with GitHub.
 
 The project includes a virtual environment as a test to see if I was able to create the requirements file and follow the standard procedure when coding something in python which is supposed to be useable by others. The collatz_conjecture folder does not need built-in packages to work, whereas the face-comparison does (as a test for both case-situations).
+
+
+This is a TESTS
